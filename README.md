@@ -1,1 +1,1 @@
-# Changing div background colors with javascript.
+# Changing div background colours with javascript.
